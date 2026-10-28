@@ -1,0 +1,253 @@
+- generic [active] [ref=f11e1]:
+  - banner:
+    - generic [ref=f11e2]:
+      - link "Niki Live Official Agency Homepage" [ref=f11e3] [cursor=pointer]:
+        - /url: /
+        - img "Niki Live Official Logo" [ref=f11e4]
+        - generic [ref=f11e5]: Niki Live
+      - navigation "Main Navigation" [ref=f11e6]:
+        - link "Home" [ref=f11e7] [cursor=pointer]:
+          - /url: /
+        - link "About Us" [ref=f11e8] [cursor=pointer]:
+          - /url: /about-nikilive
+        - link "Become a Host" [ref=f11e9] [cursor=pointer]:
+          - /url: /become-a-host
+        - link "Become an Agency" [ref=f11e10] [cursor=pointer]:
+          - /url: /become-a-agent
+        - link "Tutorial Host" [ref=f11e11] [cursor=pointer]:
+          - /url: /tutorial-host
+        - link "Tutorial Agent" [ref=f11e12] [cursor=pointer]:
+          - /url: /tutorial-agent
+        - link "Coin Seller" [ref=f11e13] [cursor=pointer]:
+          - /url: /coin-seller
+        - link "Download" [ref=f11e14] [cursor=pointer]:
+          - /url: /download-niki
+      - generic [ref=f11e15]:
+        - link "Join as Agency" [ref=f11e16] [cursor=pointer]:
+          - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+        - link "Join as Host" [ref=f11e17] [cursor=pointer]:
+          - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+  - main [ref=f11e18]:
+    - generic [ref=f11e21]:
+      - generic [ref=f11e22]:
+        - heading "Build Your Income Anywhere as an Official Niki Live Agent" [level=1] [ref=f11e23]
+        - paragraph [ref=f11e24]: Start your journey with Niki Live in the live streaming industry. Become a Niki Live agent or join as a host with flexible working opportunities, complete guidance, and competitive earning potential.
+        - generic [ref=f11e25]:
+          - link "Join as Host" [ref=f11e26] [cursor=pointer]:
+            - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+          - link "Join as Agency" [ref=f11e27] [cursor=pointer]:
+            - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+      - generic [ref=f11e29]:
+        - img "Official Niki Live Agency multiple live streamers broadcasting with coins, gifts, and party celebration Cutout" [ref=f11e31]
+        - generic [ref=f11e38]:
+          - generic [ref=f11e39]: Niki Live
+          - generic [ref=f11e40]: Global Entertainment
+        - generic [ref=f11e47]:
+          - generic [ref=f11e48]: 10M+ Downloads
+          - generic [ref=f11e49]: Trusted Global Community
+    - generic [ref=f11e51]:
+      - generic [ref=f11e52]:
+        - heading "Millions of Users Trust Niki Live Worldwide" [level=2] [ref=f11e53]
+        - paragraph [ref=f11e54]: Join a global live streaming ecosystem supported by thousands of hosts and agencies. As an official Niki Live agent, you receive professional guidance, platform support, and opportunities to grow.
+      - generic [ref=f11e55]:
+        - article [ref=f11e56]:
+          - heading "10M+ Downloads" [level=3] [ref=f11e57]:
+            - generic [ref=f11e58]: 10M+
+            - generic [ref=f11e59]: Downloads
+          - paragraph [ref=f11e60]: Niki Live has reached millions of downloads globally
+        - article [ref=f11e61]:
+          - heading "4.6 ⭐ & 4.5 ⭐ App Ratings" [level=3] [ref=f11e62]:
+            - generic [ref=f11e63]: 4.6 ⭐ & 4.5 ⭐
+            - generic [ref=f11e64]: App Ratings
+          - paragraph [ref=f11e65]: Trusted by users on Google Play and App Store.
+        - article [ref=f11e66]:
+          - heading "4+ Years of Experience" [level=3] [ref=f11e67]:
+            - generic [ref=f11e68]: 4+ Years
+            - generic [ref=f11e69]: of Experience
+          - paragraph [ref=f11e70]: Niki Live has continuously created opportunities for users worldwide.
+    - generic [ref=f11e72]:
+      - generic [ref=f11e73]:
+        - heading "Complete Support and Mentoring for Every Niki Live Agent" [level=2] [ref=f11e74]
+        - paragraph [ref=f11e75]: Whether you are starting your first agency or have experience in managing a team, we provide guidance, transparent systems, and ongoing support to help you grow successfully.
+      - generic [ref=f11e76]:
+        - article [ref=f11e77]:
+          - heading "Full Support & Professional Guidance" [level=3] [ref=f11e84]
+          - paragraph [ref=f11e85]: Receive step-by-step assistance from registration to managing your official Niki Live agency.
+        - article [ref=f11e86]:
+          - heading "Transparent Commission System" [level=3] [ref=f11e90]
+          - paragraph [ref=f11e91]: Understand how earnings, gifts, bonuses, and commissions are calculated with a clear and reliable system.
+        - article [ref=f11e92]:
+          - heading "Official Partnership Benefits" [level=3] [ref=f11e96]
+          - paragraph [ref=f11e97]: Work as an official Niki Live agent and access exclusive opportunities, support, and platform advantages.
+    - generic [ref=f11e99]:
+      - generic [ref=f11e100]:
+        - heading "Flexible Work with Competitive Income Opportunities" [level=2] [ref=f11e101]
+        - paragraph [ref=f11e102]: Niki Live provides multiple ways for hosts and agents to generate income through live streaming activities, team management, and platform features.
+      - generic [ref=f11e103]:
+        - article [ref=f11e104]:
+          - generic [ref=f11e105]: "01"
+          - heading "Reliable Base Salary Opportunity" [level=3] [ref=f11e106]
+          - paragraph [ref=f11e107]: Consistent hosts can receive daily rewards with a base earning system designed to support active creators.
+        - article [ref=f11e108]:
+          - generic [ref=f11e109]: "02"
+          - heading "Competitive Agent Commission" [level=3] [ref=f11e110]
+          - paragraph [ref=f11e111]: Niki Live agents can earn commissions based on their team's performance, with opportunities reaching up to 20%.
+        - article [ref=f11e112]:
+          - generic [ref=f11e113]: "03"
+          - heading "Multiple Revenue Streams" [level=3] [ref=f11e114]
+          - paragraph [ref=f11e115]: Earn through live streaming activities, Party features, PK Battles, interactive tools, and other platform opportunities.
+        - article [ref=f11e116]:
+          - generic [ref=f11e117]: "04"
+          - heading "Work Without Limits" [level=3] [ref=f11e118]
+          - paragraph [ref=f11e119]: Manage your host network or build your streaming career anytime and anywhere with flexible working options.
+    - generic [ref=f11e121]:
+      - heading "Easy Features Designed to Increase Your Rewards" [level=2] [ref=f11e123]
+      - generic [ref=f11e124]:
+        - article [ref=f11e125]:
+          - img "3D Stylized Live Streamer Host with Microphone and Floating Gifts for Niki Live" [ref=f11e127]
+          - generic [ref=f11e128]:
+            - list [ref=f11e129]:
+              - listitem [ref=f11e130]:
+                - generic [ref=f11e134]:
+                  - heading "Host Dashboard" [level=4] [ref=f11e135]
+                  - paragraph [ref=f11e136]: Monitor earnings, track performance, and understand your streaming progress through an easy-to-use dashboard.
+              - listitem [ref=f11e137]:
+                - generic [ref=f11e141]:
+                  - heading "Live Streaming Tools" [level=4] [ref=f11e142]
+                  - paragraph [ref=f11e143]: Use live streaming, video calls, and PK Battles to increase audience interaction and earning opportunities.
+              - listitem [ref=f11e144]:
+                - generic [ref=f11e148]:
+                  - heading "Virtual Gift System" [level=4] [ref=f11e149]
+                  - paragraph [ref=f11e150]: Receive rewards through Niki Live's gifting system with competitive gift-sharing benefits.
+              - listitem [ref=f11e151]:
+                - generic [ref=f11e155]:
+                  - heading "Star Host Program" [level=4] [ref=f11e156]
+                  - paragraph [ref=f11e157]: Reach performance targets, unlock Star Host status, and receive additional rewards from the platform.
+            - link "Become a Host" [ref=f11e159] [cursor=pointer]:
+              - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+        - article [ref=f11e160]:
+          - img "3D Professional Agency Manager with Holographic Growth Chart for Niki Live" [ref=f11e162]
+          - generic [ref=f11e163]:
+            - list [ref=f11e164]:
+              - listitem [ref=f11e165]:
+                - generic [ref=f11e169]:
+                  - heading "Agent Level System" [level=4] [ref=f11e170]
+                  - paragraph [ref=f11e171]: Your commission potential grows as your team generates more revenue, with rewards increasing according to performance.
+              - listitem [ref=f11e172]:
+                - generic [ref=f11e176]:
+                  - heading "Host Management Tools" [level=4] [ref=f11e177]
+                  - paragraph [ref=f11e178]: Recruit hosts, monitor activity, and analyze team performance using dedicated management features.
+              - listitem [ref=f11e179]:
+                - generic [ref=f11e183]:
+                  - heading "Commission Opportunities" [level=4] [ref=f11e184]
+                  - paragraph [ref=f11e185]: Earn not only from your own hosts but also from eligible sub-agency performance.
+              - listitem [ref=f11e186]:
+                - generic [ref=f11e190]:
+                  - heading "Referral Rewards" [level=4] [ref=f11e191]
+                  - paragraph [ref=f11e192]: Expand your network by inviting new users and receiving additional rewards through referral programs.
+            - link "Join as Agent" [ref=f11e194] [cursor=pointer]:
+              - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+    - generic [ref=f11e196]:
+      - generic [ref=f11e197]:
+        - heading "Frequently Asked Questions" [level=2] [ref=f11e198]
+        - paragraph [ref=f11e199]: Find answers about becoming a Niki Live agent, host registration, earnings, withdrawals, and how the platform works.
+      - generic [ref=f11e200]:
+        - article [ref=f11e201]:
+          - button "Is this an official Niki Live agency?" [ref=f11e202] [cursor=pointer]
+          - paragraph [ref=f11e207]: Yes. We are an official Niki Live partner agency helping hosts and agents worldwide develop their live streaming careers with professional support.
+        - article [ref=f11e208]:
+          - button "How does a Niki Live agent work?" [ref=f11e209] [cursor=pointer]
+          - paragraph [ref=f11e214]: A Niki Live agent manages and develops a host network. Agents recruit hosts, support their growth, and earn commissions based on the team's overall live streaming performance.
+        - article [ref=f11e215]:
+          - button "How can I withdraw my earnings from Niki Live?" [ref=f11e216] [cursor=pointer]
+          - paragraph [ref=f11e221]: Niki Live supports several withdrawal methods, including bank transfer, PayPal, Epay, Binance, USDT, G-Cash, and e-wallet options depending on regional availability.
+        - article [ref=f11e222]:
+          - button "Is there a base salary for hosts?" [ref=f11e223] [cursor=pointer]
+          - paragraph [ref=f11e228]: Yes. Qualified hosts can receive daily base rewards depending on their activity level and performance.
+        - article [ref=f11e229]:
+          - button "Can I create multiple host or agent accounts?" [ref=f11e230] [cursor=pointer]
+          - paragraph [ref=f11e235]: No. To maintain a fair recruitment system, Niki Live applies account limitations and does not allow multiple accounts on the same device.
+        - article [ref=f11e236]:
+          - button "Is my personal information protected?" [ref=f11e237] [cursor=pointer]
+          - paragraph [ref=f11e242]: Yes. Niki Live applies security measures to protect user information and maintain account privacy.
+        - article [ref=f11e243]:
+          - button "What happens if I experience problems with the app?" [ref=f11e244] [cursor=pointer]
+          - paragraph [ref=f11e249]: Official agency partners can help coordinate account, withdrawal, or technical issues with the Niki Live support team.
+    - generic [ref=f11e252]:
+      - heading "Ready to Become a Niki Live Agent or Host?" [level=2] [ref=f11e253]
+      - paragraph [ref=f11e254]: Registration is free and simple. Download Niki Live, join our official agency network, and start building your live streaming opportunity today.
+      - generic [ref=f11e255]:
+        - link "Join as Host" [ref=f11e256] [cursor=pointer]:
+          - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+        - link "Become an Agent" [ref=f11e257] [cursor=pointer]:
+          - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+  - contentinfo [ref=f11e258]:
+    - generic [ref=f11e259]:
+      - generic [ref=f11e260]:
+        - generic [ref=f11e261]:
+          - link "Niki Live Official Agency Homepage" [ref=f11e262] [cursor=pointer]:
+            - /url: /
+            - img "Niki Live Official Logo" [ref=f11e263]
+            - generic [ref=f11e264]:
+              - text: Niki Live
+              - generic [ref=f11e265]: .id
+          - paragraph [ref=f11e266]: Build Your Live Stream & Team On Niki Live
+          - paragraph [ref=f11e267]: Official Niki Live agency partner providing comprehensive mentoring, transparent commission systems, and 24/7 creator support worldwide.
+          - generic "Social Media Links" [ref=f11e268]:
+            - link "Instagram @nikiliveagency" [ref=f11e269] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikiliveagency
+            - link "TikTok @nikiliveapp" [ref=f11e272] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "YouTube @nikiliveid" [ref=f11e275] [cursor=pointer]:
+              - /url: https://www.youtube.com/@nikiliveid
+            - link "WhatsApp +6018-2470-950" [ref=f11e278] [cursor=pointer]:
+              - /url: https://wa.me/60182470950
+            - link "Telegram @NikiLiveSupport" [ref=f11e281] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+            - link "Email liveappniki@gmail.com" [ref=f11e284] [cursor=pointer]:
+              - /url: mailto:liveappniki@gmail.com
+        - generic [ref=f11e287]:
+          - heading "Quick Links" [level=4] [ref=f11e288]
+          - navigation "Quick Links" [ref=f11e289]:
+            - link "Home" [ref=f11e290] [cursor=pointer]:
+              - /url: /
+            - link "Become a Host" [ref=f11e291] [cursor=pointer]:
+              - /url: /become-a-host
+            - link "Become an Agency" [ref=f11e292] [cursor=pointer]:
+              - /url: /become-a-agent
+            - link "About Us" [ref=f11e293] [cursor=pointer]:
+              - /url: /about-nikilive
+            - link "Blog" [ref=f11e294] [cursor=pointer]:
+              - /url: /blog
+            - link "Privacy Policy" [ref=f11e295] [cursor=pointer]:
+              - /url: /privacy-policy
+        - generic [ref=f11e296]:
+          - heading "Contact & Support" [level=4] [ref=f11e297]
+          - generic [ref=f11e298]:
+            - link "@nikiliveagency (Instagram)" [ref=f11e299] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikiliveagency
+            - link "@nikiliveapp (TikTok)" [ref=f11e304] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "@nikiliveid (YouTube)" [ref=f11e308] [cursor=pointer]:
+              - /url: https://www.youtube.com/@nikiliveid
+            - link "+6018-2470-950 (WhatsApp)" [ref=f11e312] [cursor=pointer]:
+              - /url: https://wa.me/60182470950
+            - link "@NikiLiveSupport (Telegram)" [ref=f11e315] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+        - generic [ref=f11e320]:
+          - heading "Join Niki Live" [level=4] [ref=f11e321]
+          - paragraph [ref=f11e322]: Start your live stream career or build your agency network today.
+          - generic [ref=f11e323]:
+            - link "Become an Agency" [ref=f11e324] [cursor=pointer]:
+              - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+            - link "Become a Host" [ref=f11e325] [cursor=pointer]:
+              - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+      - generic [ref=f11e326]:
+        - generic [ref=f11e327]:
+          - text: © 2026 Niki Live Agency. All rights reserved. ·
+          - link "Privacy Policy" [ref=f11e328] [cursor=pointer]:
+            - /url: /privacy-policy
+          - text: ·
+          - link "Terms of Service" [ref=f11e329] [cursor=pointer]:
+            - /url: /terms-of-service
+        - generic [ref=f11e330]: Official Niki Live Partner

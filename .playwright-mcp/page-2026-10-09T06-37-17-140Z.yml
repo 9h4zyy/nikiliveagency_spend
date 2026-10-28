@@ -1,0 +1,289 @@
+- generic [active] [ref=f3e1]:
+  - banner:
+    - generic [ref=f3e2]:
+      - link "Niki Live Official Agency Homepage" [ref=f3e3] [cursor=pointer]:
+        - /url: /
+        - img "Niki Live Official Logo" [ref=f3e4]
+        - generic [ref=f3e5]: Niki Live
+      - navigation "Main Navigation" [ref=f3e6]:
+        - link "Home" [ref=f3e7] [cursor=pointer]:
+          - /url: /
+        - link "About Us" [ref=f3e8] [cursor=pointer]:
+          - /url: /about-nikilive
+        - link "Become a Host" [ref=f3e9] [cursor=pointer]:
+          - /url: /become-a-host
+        - link "Become an Agency" [ref=f3e10] [cursor=pointer]:
+          - /url: /become-a-agent
+        - link "Tutorial Host" [ref=f3e11] [cursor=pointer]:
+          - /url: /tutorial-host
+        - link "Tutorial Agent" [ref=f3e12] [cursor=pointer]:
+          - /url: /tutorial-agent
+        - link "Coin Seller" [ref=f3e13] [cursor=pointer]:
+          - /url: /coin-seller
+        - link "Download" [ref=f3e14] [cursor=pointer]:
+          - /url: /download-niki
+      - generic [ref=f3e15]:
+        - link "Join as Agency" [ref=f3e16] [cursor=pointer]:
+          - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+        - link "Join as Host" [ref=f3e17] [cursor=pointer]:
+          - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+  - main [ref=f3e18]:
+    - generic [ref=f3e21]:
+      - generic [ref=f3e22]:
+        - generic [ref=f3e23]: Official Coin Merchant
+        - heading "Become a Niki Live Coin Seller and Create a New Opportunity" [level=1] [ref=f3e25]
+        - paragraph [ref=f3e26]: Become a trusted Niki Live Coin Seller and earn additional income by purchasing coins from Niki Live and selling them to users or agents. Eligible users can build their own coin trading activity while supporting the Niki Live community.
+        - generic [ref=f3e27]:
+          - link "Coin Seller Benefits" [ref=f3e28] [cursor=pointer]:
+            - /url: "#benefits"
+          - link "Requirements" [ref=f3e29] [cursor=pointer]:
+            - /url: "#requirements"
+      - generic [ref=f3e31]:
+        - img "Become a Niki Live Coin Seller and Create a New Opportunity Cutout" [ref=f3e33]
+        - generic [ref=f3e40]:
+          - generic [ref=f3e41]: Coin Merchant
+          - generic [ref=f3e42]: Instant Transactions
+        - generic [ref=f3e48]:
+          - generic [ref=f3e49]: Margin & Profit
+          - generic [ref=f3e50]: Direct Trading System
+    - generic [ref=f3e52]:
+      - generic [ref=f3e53]:
+        - heading "Niki Live Coin Seller Benefits" [level=2] [ref=f3e54]
+        - paragraph [ref=f3e55]: As a Niki Live Coin Seller, you can generate profit through coin transactions while providing convenient recharge solutions for Niki Live users and agents.
+      - generic [ref=f3e56]:
+        - article [ref=f3e57]:
+          - heading "10%–21% Profit Opportunity" [level=3] [ref=f3e58]
+          - paragraph [ref=f3e59]: When selling coins directly to Niki Live users.
+        - article [ref=f3e60]:
+          - heading "7%–14% Profit Opportunity" [level=3] [ref=f3e61]
+          - paragraph [ref=f3e62]: When selling coins to other Niki Live agents.
+    - generic [ref=f3e64]:
+      - heading "Two Ways to Become a Niki Live Coin Seller" [level=2] [ref=f3e66]
+      - list [ref=f3e68]:
+        - listitem [ref=f3e69]:
+          - text: ✦ •
+          - strong [ref=f3e70]: "Option 1 (Existing Agent):"
+          - text: Become a Coin Seller if you are a Niki Live agent with a minimum weekly earning of $1,000 and a one-time purchase of $1,000 worth of coins from Niki Live.
+        - listitem [ref=f3e71]:
+          - text: ✦ •
+          - strong [ref=f3e72]: "Option 2 (Direct Qualification):"
+          - text: Purchase $1,600 worth of coins from Niki Live as a one-time transaction to become eligible as a Coin Seller.
+    - generic [ref=f3e74]:
+      - generic [ref=f3e75]:
+        - heading "How to Buy Coins for Niki Live Coin Selling" [level=2] [ref=f3e76]
+        - paragraph [ref=f3e77]: Niki Live Coin Sellers can obtain trading coins through recharge or by exchanging Beans into trading coins.
+      - generic [ref=f3e78]:
+        - article [ref=f3e79]:
+          - generic [ref=f3e80]:
+            - heading "Recharge Coins on Niki Live" [level=3] [ref=f3e81]
+            - list [ref=f3e82]:
+              - listitem [ref=f3e83]: "Step 1: On your profile page, tap “Coin Seller” menu"
+              - listitem [ref=f3e84]: "Step 2: Then, tap “Recharge Now”"
+              - listitem [ref=f3e85]: "Step 3: Lastly, select the amount and follow the instructions"
+          - generic [ref=f3e86]:
+            - generic [ref=f3e87]:
+              - generic [ref=f3e88]: Step 1
+              - 'img "Recharge Coins on Niki Live - Step 1: On your profile page, tap Coin Seller menu" [ref=f3e90]'
+            - generic [ref=f3e91]:
+              - generic [ref=f3e92]: Step 2
+              - 'img "Recharge Coins on Niki Live - Step 2: Then, tap Recharge Now" [ref=f3e94]'
+            - generic [ref=f3e95]:
+              - generic [ref=f3e96]: Step 3
+              - 'img "Recharge Coins on Niki Live - Step 3: Lastly, select the amount and follow the instructions" [ref=f3e98]'
+        - article [ref=f3e99]:
+          - generic [ref=f3e100]:
+            - heading "Exchange Beans for Trading Coins" [level=3] [ref=f3e101]
+            - list [ref=f3e102]:
+              - listitem [ref=f3e103]: "Step 1: On your profile page, tap “Coin Seller” menu"
+              - listitem [ref=f3e104]: "Step 2: Click the “Exchange Bean for Trading Coins” button"
+              - listitem [ref=f3e105]: "Step 3: Enter the amount you wish to exchange and confirm"
+          - generic [ref=f3e106]:
+            - generic [ref=f3e107]:
+              - generic [ref=f3e108]: Step 1
+              - 'img "Exchange Beans for Trading Coins - Step 1: On your profile page, tap Coin Seller menu" [ref=f3e110]'
+            - generic [ref=f3e111]:
+              - generic [ref=f3e112]: Step 2
+              - 'img "Exchange Beans for Trading Coins - Step 2: Click the Exchange Bean for Trading Coins button" [ref=f3e114]'
+            - generic [ref=f3e115]:
+              - generic [ref=f3e116]: Step 3
+              - 'img "Exchange Beans for Trading Coins - Step 3: Enter the amount you wish to exchange and confirm" [ref=f3e118]'
+    - generic [ref=f3e120]:
+      - generic [ref=f3e121]:
+        - heading "Niki Live Coin Seller Guide" [level=2] [ref=f3e122]
+        - paragraph [ref=f3e123]: Follow these strategies to optimize your Coin Seller account, increase visibility, and manage your trading activity effectively.
+      - article [ref=f3e124]:
+        - generic [ref=f3e125]: "01"
+        - heading "Properly Setup Your Account" [level=3] [ref=f3e126]
+        - paragraph [ref=f3e127]: Setup your region, currencies, and phone number properly to increase your visibility on the platform
+        - list [ref=f3e128]:
+          - listitem [ref=f3e129]: "Step 1: On the Coin Seller page, click on the icon in the top right corner."
+          - listitem [ref=f3e130]: "Step 2: On the trading account management menu, select “Tradable currencies” menu"
+          - listitem [ref=f3e131]: "Step 3: Choose the region/currencies you want to use and fill in your phone number"
+        - paragraph [ref=f3e133]:
+          - strong [ref=f3e134]: "Notes:"
+          - text: Users can contact you via the phone number
+        - generic [ref=f3e135]:
+          - generic [ref=f3e136]:
+            - generic [ref=f3e137]: Step 1
+            - 'img "Properly Setup Your Account - Step 1: Click on the icon in the top right corner" [ref=f3e139]'
+          - generic [ref=f3e140]:
+            - generic [ref=f3e141]: Step 2
+            - 'img "Properly Setup Your Account - Step 2: Select Tradable currencies menu" [ref=f3e143]'
+          - generic [ref=f3e144]:
+            - generic [ref=f3e145]: Step 3
+            - 'img "Properly Setup Your Account - Step 3: Choose region/currencies and fill in phone number" [ref=f3e147]'
+      - generic [ref=f3e148]:
+        - article [ref=f3e149]:
+          - generic [ref=f3e150]: "02"
+          - heading "Maintaining Enough Trading Coins" [level=3] [ref=f3e151]
+          - paragraph [ref=f3e152]: With a good amount of coins in your account, you will earn various perks and benefits
+          - list [ref=f3e153]:
+            - listitem [ref=f3e154]: "1M+ Coins: access to “Customer Management” menu, where you can manage customers and find potential buyers"
+            - listitem [ref=f3e155]: "1M+ Coins: your account will receive the official coin seller logo/icon. When you have fewer than 1M, the logo will disappear."
+            - listitem [ref=f3e156]: "Purchased 3M coins + have 2M+ coins: you will receive more exposure and promotion on the official Coin Seller page."
+        - article [ref=f3e157]:
+          - generic [ref=f3e158]: "03"
+          - heading "Selling Your Trading Coins" [level=3] [ref=f3e159]
+          - paragraph [ref=f3e160]: "You can sell your coins at any price you want, however, if you’re new, we recommend you to follow this information:"
+          - table "Recommended Selling Price Table" [ref=f3e162]:
+            - rowgroup [ref=f3e163]:
+              - row [ref=f3e164]:
+                - columnheader "Purchase amount" [ref=f3e165]
+                - columnheader "Recommended Price" [ref=f3e166]
+            - rowgroup [ref=f3e167]:
+              - row [ref=f3e168]:
+                - cell "Less than $20" [ref=f3e169]
+                - cell "9300 Coins per $1" [ref=f3e170]
+              - row [ref=f3e171]:
+                - cell "More than $20" [ref=f3e172]
+                - cell "9500 Coins per $1" [ref=f3e173]
+          - generic [ref=f3e174]:
+            - paragraph [ref=f3e175]:
+              - strong [ref=f3e176]: "How to sell:"
+            - paragraph [ref=f3e177]: On the “Coin Trade” page, select your account, then enter the buyer’s ID and the amount they buy, and lastly confirm the transfer.
+          - generic [ref=f3e179]:
+            - img "How can you sell your trading coins on Niki Live - Coin Trade walkthrough"
+    - generic [ref=f3e181]:
+      - heading "Niki Live Coin Seller Account Deactivation" [level=2] [ref=f3e183]
+      - generic [ref=f3e184]:
+        - paragraph [ref=f3e185]: "A Coin Seller account may be automatically deactivated if it does not meet the required activity conditions. Your account will be deactivated when:"
+        - list [ref=f3e186]:
+          - listitem [ref=f3e187]: Trading transactions are below 200,000 coins for 15 consecutive days.
+          - listitem [ref=f3e188]: Your account balance is below 1M coins.
+    - generic [ref=f3e190]:
+      - heading "Frequently Asked Questions" [level=2] [ref=f3e192]
+      - generic [ref=f3e193]:
+        - article [ref=f3e194]:
+          - button "What is a Niki Live Coin Seller?" [ref=f3e195] [cursor=pointer]
+          - generic [ref=f3e200]:
+            - paragraph [ref=f3e201]: A Niki Live Coin Seller is an eligible user who can purchase coins from Niki Live and sell them to other users or agents.
+            - paragraph [ref=f3e202]: This program allows users to generate additional income through coin trading activities within the Niki Live platform.
+        - article [ref=f3e203]:
+          - button "How much profit can I earn as a Niki Live Coin Seller?" [ref=f3e204] [cursor=pointer]
+          - generic [ref=f3e209]:
+            - paragraph [ref=f3e210]: "Your profit depends on your selling method. Potential profit includes:"
+            - list [ref=f3e211]:
+              - listitem [ref=f3e212]: Around 10%–21% when selling coins to users.
+              - listitem [ref=f3e213]: Around 7%–14% when selling coins to other agents.
+        - article [ref=f3e214]:
+          - button "Who can become a Niki Live Coin Seller?" [ref=f3e215] [cursor=pointer]
+          - generic [ref=f3e220]:
+            - paragraph [ref=f3e221]: "You can qualify through one of these options:"
+            - generic [ref=f3e222]:
+              - generic [ref=f3e223]: "Option 1:"
+              - paragraph [ref=f3e224]: Be a Niki Live agent earning more than $1,000 weekly and purchase $1,000 worth of coins from Niki Live.
+            - generic [ref=f3e225]:
+              - generic [ref=f3e226]: "Option 2:"
+              - paragraph [ref=f3e227]: Complete a one-time purchase of $1,600 worth of coins from Niki Live.
+        - article [ref=f3e228]:
+          - button "How do I get coins to start selling?" [ref=f3e229] [cursor=pointer]
+          - generic [ref=f3e234]:
+            - paragraph [ref=f3e235]: "There are two ways:"
+            - generic [ref=f3e236]:
+              - generic [ref=f3e237]: "Recharge Coins:"
+              - list [ref=f3e238]:
+                - listitem [ref=f3e239]: Open the Coin Seller menu from your profile.
+                - listitem [ref=f3e240]: Select Recharge Now.
+                - listitem [ref=f3e241]: Complete the payment process.
+            - generic [ref=f3e242]:
+              - generic [ref=f3e243]: "Exchange Beans:"
+              - list [ref=f3e244]:
+                - listitem [ref=f3e245]: Open the Coin Seller menu.
+                - listitem [ref=f3e246]: Select Exchange Bean for Trading Coins.
+                - listitem [ref=f3e247]: Confirm the exchange amount.
+        - article [ref=f3e248]:
+          - button "How can I increase my visibility as a Coin Seller?" [ref=f3e249] [cursor=pointer]
+          - paragraph [ref=f3e255]: "Improve your account visibility by: Setting the correct region, selecting available currencies, adding your phone number, maintaining sufficient trading coin balance."
+    - generic [ref=f3e258]:
+      - heading "Have more questions regarding Coin Seller?" [level=2] [ref=f3e259]
+      - paragraph [ref=f3e260]: Need assistance with registration, coin trading, or account setup? Contact our official team for further guidance.
+      - link "Contact Our Team" [ref=f3e262] [cursor=pointer]:
+        - /url: https://t.me/NikiLiveSupport
+  - contentinfo [ref=f3e263]:
+    - generic [ref=f3e264]:
+      - generic [ref=f3e265]:
+        - generic [ref=f3e266]:
+          - link "Niki Live Official Agency Homepage" [ref=f3e267] [cursor=pointer]:
+            - /url: /
+            - img "Niki Live Official Logo" [ref=f3e268]
+            - generic [ref=f3e269]:
+              - text: Niki Live
+              - generic [ref=f3e270]: .id
+          - paragraph [ref=f3e271]: Build Your Live Stream & Team On Niki Live
+          - paragraph [ref=f3e272]: Official Niki Live agency partner providing comprehensive mentoring, transparent commission systems, and 24/7 creator support worldwide.
+          - generic "Social Media Links" [ref=f3e273]:
+            - link "Instagram @nikilive.id" [ref=f3e274] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikilive.id
+            - link "TikTok @nikiliveapp" [ref=f3e277] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "WhatsApp +601113244099" [ref=f3e280] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "Telegram @NikiLiveSupport" [ref=f3e283] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+            - link "Email liveappniki@gmail.com" [ref=f3e286] [cursor=pointer]:
+              - /url: mailto:liveappniki@gmail.com
+        - generic [ref=f3e289]:
+          - heading "Quick Links" [level=4] [ref=f3e290]
+          - navigation "Quick Links" [ref=f3e291]:
+            - link "Home" [ref=f3e292] [cursor=pointer]:
+              - /url: /
+            - link "Become a Host" [ref=f3e293] [cursor=pointer]:
+              - /url: /become-a-host
+            - link "Become an Agency" [ref=f3e294] [cursor=pointer]:
+              - /url: /become-a-agent
+            - link "About Us" [ref=f3e295] [cursor=pointer]:
+              - /url: /about-nikilive
+            - link "Blog" [ref=f3e296] [cursor=pointer]:
+              - /url: /blog
+            - link "Privacy Policy" [ref=f3e297] [cursor=pointer]:
+              - /url: /privacy-policy
+        - generic [ref=f3e298]:
+          - heading "Contact & Support" [level=4] [ref=f3e299]
+          - generic [ref=f3e300]:
+            - link "@nikilive.id (Instagram)" [ref=f3e301] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikilive.id
+            - link "@nikiliveapp (TikTok)" [ref=f3e306] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "+601113244099 (WhatsApp)" [ref=f3e310] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "@NikiLiveSupport (Telegram)" [ref=f3e313] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+            - link "liveappniki@gmail.com" [ref=f3e318] [cursor=pointer]:
+              - /url: mailto:liveappniki@gmail.com
+        - generic [ref=f3e323]:
+          - heading "Join Niki Live" [level=4] [ref=f3e324]
+          - paragraph [ref=f3e325]: Start your live stream career or build your agency network today.
+          - generic [ref=f3e326]:
+            - link "Become an Agency" [ref=f3e327] [cursor=pointer]:
+              - /url: https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code=
+            - link "Become a Host" [ref=f3e328] [cursor=pointer]:
+              - /url: https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1
+      - generic [ref=f3e329]:
+        - generic [ref=f3e330]:
+          - text: © 2026 Niki Live Agency. All rights reserved. ·
+          - link "Privacy Policy" [ref=f3e331] [cursor=pointer]:
+            - /url: /privacy-policy
+          - text: ·
+          - link "Terms of Service" [ref=f3e332] [cursor=pointer]:
+            - /url: /terms-of-service
+        - generic [ref=f3e333]: Official Niki Live Partner

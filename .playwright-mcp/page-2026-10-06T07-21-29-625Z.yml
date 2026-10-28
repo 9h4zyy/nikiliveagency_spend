@@ -1,0 +1,234 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Niki Live Official Agency Homepage" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e8]: Niki Live
+      - button "Toggle navigation menu" [ref=e9] [cursor=pointer]
+  - main [ref=e13]:
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: Official Host Partner
+        - heading "Become an Official Niki Live Host with Us!" [level=1] [ref=e20]
+        - paragraph [ref=e21]: Join Niki Live as a livestream host and discover flexible earning opportunities. Competitive gift sharing, weekly payment options, game rewards, and continuous guidance from an official Niki Live agent.
+        - link "Join as Host" [ref=e23] [cursor=pointer]:
+          - /url: "#registration"
+      - img "Become an Official Niki Live Host" [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - heading "How to Become a Niki Live Host" [level=2] [ref=e30]
+        - paragraph [ref=e31]: Starting your journey as a Niki Live host is simple. Follow these registration steps to create your account and begin livestreaming with official support.
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: "1"
+            - generic [ref=e36]:
+              - 'heading "Step 1: Download Niki Live App" [level=4] [ref=e37]'
+              - paragraph [ref=e38]: Download the Niki Live application from the official store and click the registration option to begin.
+          - generic [ref=e39]:
+            - generic [ref=e40]: "2"
+            - generic [ref=e41]:
+              - 'heading "Step 2: Create Your Account" [level=4] [ref=e42]'
+              - paragraph [ref=e43]: "Register using your preferred method: Mobile number, Email address, or Social media account."
+          - generic [ref=e44]:
+            - generic [ref=e45]: "3"
+            - generic [ref=e46]:
+              - 'heading "Step 3: Complete Your Profile Information" [level=4] [ref=e47]'
+              - paragraph [ref=e48]: Provide the required information and submit your registration to complete the host application process.
+        - generic [ref=e49]:
+          - img "Niki Live Host Registration Guide" [ref=e51]
+          - generic [ref=e52]:
+            - link "Register Now" [ref=e53] [cursor=pointer]:
+              - /url: /download-niki
+            - link "Learn More" [ref=e54] [cursor=pointer]:
+              - /url: "#why-choose"
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - heading "Why Choose Niki Live as Your Livestream Platform?" [level=2] [ref=e58]
+        - paragraph [ref=e59]: Niki Live provides hosts with flexible earning opportunities, transparent payment systems, and professional support from the Niki Live agent.
+      - generic [ref=e60]:
+        - article [ref=e61]:
+          - generic [ref=e62]: "01"
+          - heading "High Gift Share" [level=3] [ref=e63]
+          - paragraph [ref=e64]: Receive gift sharing benefits and earn up to 70% from gifts during livestream sessions.
+        - article [ref=e65]:
+          - generic [ref=e66]: "02"
+          - heading "In-room Game Revenue" [level=3] [ref=e67]
+          - paragraph [ref=e68]: Increase your earnings through interactive games inside your livestream. Hosts can receive additional Bean income when viewers participate.
+        - article [ref=e69]:
+          - generic [ref=e70]: "03"
+          - heading "Fair & Flexible Payouts" [level=3] [ref=e71]
+          - paragraph [ref=e72]: Enjoy a transparent earning system without hidden deductions. Payments are processed through reliable withdrawal channels.
+        - article [ref=e73]:
+          - generic [ref=e74]: "04"
+          - heading "Low Withdrawal Limits & Bonus Opportunities" [level=3] [ref=e75]
+          - paragraph [ref=e76]: Access additional reward opportunities with an affordable minimum withdrawal requirement starting from $10 USD.
+        - article [ref=e77]:
+          - generic [ref=e78]: "05"
+          - heading "Competitive Recharge Rates" [level=3] [ref=e79]
+          - paragraph [ref=e80]: Viewers can enjoy competitive coin recharge rates, helping create better engagement opportunities between hosts and audiences. For more information about recharge benefits, contact the official Niki Live agent team.
+    - generic [ref=e82]:
+      - heading "Niki Live Host Earnings" [level=2] [ref=e84]
+      - generic [ref=e85]:
+        - table [ref=e87]:
+          - rowgroup [ref=e88]:
+            - row [ref=e89]:
+              - columnheader "Earning Source" [ref=e90]
+              - columnheader "Amount (in Beans)" [ref=e91]
+          - rowgroup [ref=e92]:
+            - row [ref=e93]:
+              - cell [ref=e94]:
+                - strong [ref=e100]: Video Call
+              - cell "1200 Beans/minute" [ref=e101]:
+                - generic [ref=e102]:
+                  - generic [ref=e103]: "1200"
+                  - generic [ref=e104]: Beans/minute
+            - row [ref=e105]:
+              - cell [ref=e106]:
+                - strong [ref=e111]: Voice Call
+              - cell "800 Beans/minutes" [ref=e112]:
+                - generic [ref=e113]:
+                  - generic [ref=e114]: "800"
+                  - generic [ref=e115]: Beans/minutes
+            - row [ref=e116]:
+              - cell [ref=e117]:
+                - strong [ref=e125]: Gift Share
+              - cell "70% of gift value (40% during calls)" [ref=e126]:
+                - generic [ref=e127]:
+                  - generic [ref=e128]: 70%
+                  - generic [ref=e129]: of gift value (40% during calls)
+            - row [ref=e130]:
+              - cell [ref=e131]:
+                - strong [ref=e136]: Game Share (Live)
+              - cell "Vary, but always plenty" [ref=e137]
+        - generic [ref=e140]:
+          - strong [ref=e144]: "Notes:"
+          - list [ref=e145]:
+            - listitem [ref=e146]: ✦ 10,000 Beans = $1 USD
+            - listitem [ref=e147]: ✦ When playing a Game, the accumulated coin is all the coins of both users and hosts inside the live room
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - heading "Host Task Reward Event & Policies" [level=2] [ref=e151]
+        - paragraph [ref=e152]: Niki Live provides special reward programs for eligible hosts based on their performance level and recent earnings. Hosts can receive rewards according to their activity and income performance during the previous 7 day.
+      - generic [ref=e153]:
+        - article [ref=e154]:
+          - generic [ref=e155]: Part 1
+          - link "View Host Task Reward Event Policy Part 1" [ref=e156] [cursor=pointer]:
+            - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-1.png
+            - img "Niki Live Host Task Reward Event Policy Part 1" [ref=e157]
+        - article [ref=e158]:
+          - generic [ref=e159]: Part 2
+          - link "View Host Task Reward Event Policy Part 2" [ref=e160] [cursor=pointer]:
+            - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-2.png
+            - img "Niki Live Host Task Reward Event Policy Part 2" [ref=e161]
+        - article [ref=e162]:
+          - generic [ref=e163]: Part 3
+          - link "View Host Task Reward Event Policy Part 3" [ref=e164] [cursor=pointer]:
+            - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-3.png
+            - img "Niki Live Host Task Reward Event Policy Part 3" [ref=e165]
+    - generic [ref=e167]:
+      - heading "Niki Live Host Withdrawal Information & Guidelines" [level=2] [ref=e169]
+      - list [ref=e171]:
+        - listitem [ref=e172]: ✦ • 10,000 Beans = 1 USD
+        - listitem [ref=e173]: "✦ • Minimum single withdrawal amount: $10 USD"
+        - listitem [ref=e174]: ✦ • Reward is calculated based on the last 7 days earnings, this means today + the previous 6 days.
+        - listitem [ref=e175]: ✦ • When the daily earnings increase to a higher level, the daily reward will also increase
+        - listitem [ref=e176]: ✦ • If a host registers multiple accounts, including but not limited to using multiple devices, all related rewards will be cancelled.
+        - listitem [ref=e177]: ✦ • Hosts can request withdrawals at any time, but Niki processes payments once a week.
+        - listitem [ref=e178]: ✦ • Service fees vary depending on the selected withdrawal method.
+        - listitem [ref=e179]: "✦ • Niki supports multiple withdrawal options, including: Epay, Payoneer, PayPal, and bank transfer."
+    - generic [ref=e181]:
+      - heading "Frequently Asked Questions" [level=2] [ref=e183]
+      - generic [ref=e184]:
+        - article [ref=e185]:
+          - 'button "FAQ 1: How can I become a Niki Live Host?" [ref=e186] [cursor=pointer]'
+          - paragraph [ref=e191]: Becoming a Niki Live host is easy. Simply download the Niki Live app, register using your mobile number, email, or social media account, complete your profile information, and submit your application. After approval, you can start your livestream journey.
+        - article [ref=e192]:
+          - 'button "FAQ 2: How much can I earn as a Niki Live Host?" [ref=e193] [cursor=pointer]'
+          - paragraph [ref=e198]: Your earnings depend on your live streaming activities and audience engagement. Hosts can earn through video calls, voice calls, gift sharing, and in-room game revenue. The conversion rate is 10,000 Beans = $1 USD.
+        - article [ref=e199]:
+          - 'button "FAQ 3: When can I withdraw my earnings?" [ref=e200] [cursor=pointer]'
+          - paragraph [ref=e205]: Hosts can request withdrawals anytime after meeting account requirements. Available withdrawal methods include Epay, Payoneer, PayPal, and Bank Transfer. The minimum withdrawal amount starts from $10 USD.
+        - article [ref=e206]:
+          - 'button "FAQ 4: What makes Niki Live a good platform for hosts?" [ref=e207] [cursor=pointer]'
+          - paragraph [ref=e212]: "Niki Live offers: competitive gift sharing, additional game income, flexible withdrawal options, weekly payment processing, host reward programs, and support from official Niki Live agents."
+        - article [ref=e213]:
+          - 'button "FAQ 5: How are host rewards calculated?" [ref=e214] [cursor=pointer]'
+          - paragraph [ref=e219]: Host rewards are based on your earnings from the last 7 days, including today and the previous 6 days. As your earnings level increases, your daily reward can also increase.
+    - generic [ref=e222]:
+      - heading "Start your livestream host career with an official agency partner" [level=2] [ref=e223]
+      - paragraph [ref=e224]: Free to register with full guide and mentoring from us. Start whenever you want, we are always ready to help you start.
+      - generic [ref=e225]:
+        - link "Join as Host" [ref=e226] [cursor=pointer]:
+          - /url: /become-a-host#registration
+        - link "Contact our Team" [ref=e227] [cursor=pointer]:
+          - /url: https://wa.me/601113244099
+  - contentinfo [ref=e228]:
+    - generic [ref=e229]:
+      - generic [ref=e230]:
+        - generic [ref=e231]:
+          - link "Niki Live Official Agency Homepage" [ref=e232] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e236]:
+              - text: Niki Live
+              - generic [ref=e237]: .id
+          - paragraph [ref=e238]: Build Your Live Stream & Team On Niki Live
+          - paragraph [ref=e239]: Official Niki Live agency partner providing comprehensive mentoring, transparent commission systems, and 24/7 creator support worldwide.
+          - generic "Social Media Links" [ref=e240]:
+            - link "Instagram @nikilive.id" [ref=e241] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikilive.id
+            - link "TikTok @nikiliveapp" [ref=e244] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "YouTube @nikiliveid" [ref=e247] [cursor=pointer]:
+              - /url: https://www.youtube.com/@nikiliveid
+            - link "WhatsApp +601113244099" [ref=e250] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "Telegram @NikiLiveSupport" [ref=e253] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+            - link "Email liveappniki@gmail.com" [ref=e256] [cursor=pointer]:
+              - /url: mailto:liveappniki@gmail.com
+        - generic [ref=e259]:
+          - heading "Quick Links" [level=4] [ref=e260]
+          - navigation "Quick Links" [ref=e261]:
+            - link "Home" [ref=e262] [cursor=pointer]:
+              - /url: /
+            - link "Become a Host" [ref=e263] [cursor=pointer]:
+              - /url: /become-a-host
+            - link "Become an Agency" [ref=e264] [cursor=pointer]:
+              - /url: /become-a-agent
+            - link "About Us" [ref=e265] [cursor=pointer]:
+              - /url: /about-us
+            - link "Blog" [ref=e266] [cursor=pointer]:
+              - /url: /blog
+            - link "Privacy Policy" [ref=e267] [cursor=pointer]:
+              - /url: /privacy-policy
+        - generic [ref=e268]:
+          - heading "Contact & Support" [level=4] [ref=e269]
+          - generic [ref=e270]:
+            - link "@nikilive.id (Instagram)" [ref=e271] [cursor=pointer]:
+              - /url: https://www.instagram.com/nikilive.id
+            - link "@nikiliveapp (TikTok)" [ref=e276] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@nikiliveapp
+            - link "@nikiliveid (YouTube)" [ref=e280] [cursor=pointer]:
+              - /url: https://www.youtube.com/@nikiliveid
+            - link "+601113244099 (WhatsApp)" [ref=e284] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "@NikiLiveSupport (Telegram)" [ref=e287] [cursor=pointer]:
+              - /url: https://t.me/NikiLiveSupport
+        - generic [ref=e292]:
+          - heading "Join Niki Live" [level=4] [ref=e293]
+          - paragraph [ref=e294]: Start your live stream career or build your agency network today.
+          - generic [ref=e295]:
+            - link "Become an Agency" [ref=e296] [cursor=pointer]:
+              - /url: /become-a-agent
+            - link "Become a Host" [ref=e297] [cursor=pointer]:
+              - /url: /become-a-host
+      - generic [ref=e298]:
+        - generic [ref=e299]:
+          - text: © 2026 Niki Live Agency. All rights reserved. ·
+          - link "Privacy Policy" [ref=e300] [cursor=pointer]:
+            - /url: /privacy-policy
+          - text: ·
+          - link "Terms of Service" [ref=e301] [cursor=pointer]:
+            - /url: /terms-of-service
+        - generic [ref=e302]: Official Niki Live Partner

@@ -1,0 +1,291 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - region [ref=f1e3]:
+      - generic [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - generic [ref=f1e7]: Host Opportunities
+          - heading "Become an Official Niki Livestream Host with Us!" [level=1] [ref=f1e8]:
+            - text: Become an Official
+            - generic [ref=f1e9]: Niki Livestream Host
+            - text: with Us!
+          - paragraph [ref=f1e10]: Weekly withdrawals, high gift shares, game revenue and more for you to earn as a new or experienced live stream host.
+          - generic [ref=f1e11]:
+            - link "Join as Host" [ref=f1e12] [cursor=pointer]:
+              - /url: "#register"
+            - link "View Host Earnings" [ref=f1e13] [cursor=pointer]:
+              - /url: "#earnings"
+        - generic [ref=f1e16]:
+          - img "Official Niki Live Host female broadcaster smiling at microphone with floating gifts and golden beans" [ref=f1e17]
+          - generic [aria-hidden]:
+            - generic: Streaming & Pesta
+    - region [ref=f1e18]:
+      - generic [ref=f1e19]:
+        - generic [ref=f1e20]:
+          - generic [ref=f1e21]: Simple Onboarding
+          - heading "How to Become a Niki Live Host" [level=2] [ref=f1e22]
+          - paragraph [ref=f1e23]: Follow these simple steps to join our official agency and start streaming today.
+        - generic [ref=f1e24]:
+          - article [ref=f1e25]:
+            - generic [ref=f1e26]: "1"
+            - generic [ref=f1e27]:
+              - strong [ref=f1e28]: "Step 1: Download Niki Live app"
+              - text: Download Niki Live app using this link or click Register Now button
+          - article [ref=f1e29]:
+            - generic [ref=f1e30]: "2"
+            - generic [ref=f1e31]:
+              - strong [ref=f1e32]: "Step 2: Register your account"
+              - text: Register your account using mobile number, email, or social media
+          - article [ref=f1e33]:
+            - generic [ref=f1e34]: "3"
+            - generic [ref=f1e35]:
+              - strong [ref=f1e36]: "Step 3: Complete & Submit"
+              - text: Fill out the required information then click ‘Submit’
+        - generic [ref=f1e37]:
+          - link [ref=f1e39]:
+            - /url: https://nikilive.id/wp-content/uploads/2026/03/How-to-Become-Niki-Live-Host-Tutorial-2026-Step-1-to-3.jpg
+            - img "How to Become Niki Live Host Tutorial 2026 Step 1 to 3" [ref=f1e40]
+            - generic [aria-hidden]:
+              - generic: Click to Zoom
+          - generic [ref=f1e41]:
+            - link "Register Now" [ref=f1e42] [cursor=pointer]:
+              - /url: https://wa.me/601113244099
+            - link "Learn More" [ref=f1e43] [cursor=pointer]:
+              - /url: "#why-choose"
+    - region [ref=f1e44]:
+      - generic [ref=f1e45]:
+        - generic [ref=f1e46]:
+          - generic [ref=f1e47]: Host Advantages
+          - heading "Why Choose Niki Live" [level=2] [ref=f1e48]
+          - paragraph [ref=f1e49]: Experience maximum earning potential and industry-leading creator benefits on our global platform.
+        - generic [ref=f1e50]:
+          - article [ref=f1e51]:
+            - heading "High Gift Share" [level=3] [ref=f1e55]
+            - paragraph [ref=f1e56]: Hosts receive a competitive gift share split of up to 70% during live streams.
+          - article [ref=f1e57]:
+            - heading "In-room Game Revenue" [level=3] [ref=f1e61]
+            - paragraph [ref=f1e62]: Hosts earn a significant amount of bean income when users play games inside their live room
+          - article [ref=f1e63]:
+            - heading "Fair & Flexible Payouts" [level=3] [ref=f1e68]
+            - paragraph [ref=f1e69]: No cuts or hidden fees. Hosts can withdraw their income any time directly. Payments are processed on a reliable weekly schedule.
+          - article [ref=f1e70]:
+            - heading "Low Withdrawal Limits & Bonuses" [level=3] [ref=f1e75]
+            - paragraph [ref=f1e76]: Multiple bonus opportunities. Accessible minimum withdrawal set at just $11.5
+          - article [ref=f1e77]:
+            - heading "Competitive Recharge Rates" [level=3] [ref=f1e81]
+            - paragraph [ref=f1e82]: Viewers receive a highly profitable standard exchange rate of $1 = 9,800 coins. We also offer a better recharge price when needed, contact us for more information.
+        - link "Lihat Infografis Peran dan Tanggung Jawab Host Niki Live" [ref=f1e84]:
+          - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Live-Host-Role.png
+          - img "Niki Live Host Role and Responsibilities Infographic" [ref=f1e85]
+          - generic [aria-hidden]:
+            - generic: Click to Zoom
+    - region [ref=f1e86]:
+      - generic [ref=f1e87]:
+        - generic [ref=f1e88]:
+          - generic [ref=f1e89]: Platform Comparison
+          - heading "Official Agency Host vs Solo / Other Platforms" [level=2] [ref=f1e90]
+          - paragraph [ref=f1e91]: See why joining Niki Live under our official partner agency gives you superior income, dedicated mentoring, and daily financial security.
+        - table [ref=f1e93]:
+          - rowgroup [ref=f1e94]:
+            - row [ref=f1e95]:
+              - columnheader "Key Benefit / Feature" [ref=f1e96]
+              - columnheader "Official Niki Live Agency Host Recommended" [ref=f1e97]:
+                - text: Official Niki Live Agency Host
+                - generic [ref=f1e98]: Recommended
+              - columnheader "Solo Streamer / Other Apps" [ref=f1e99]
+          - rowgroup [ref=f1e100]:
+            - row [ref=f1e101]:
+              - cell "Gift Share Revenue Standard live broadcast virtual gifting" [ref=f1e102]:
+                - text: Gift Share Revenue
+                - generic [ref=f1e103]: Standard live broadcast virtual gifting
+              - cell "✓ Up to 70% Share Split" [ref=f1e104]:
+                - generic [ref=f1e105]: ✓
+                - text: Up to 70% Share Split
+              - cell "✕ 30% - 40% Standard" [ref=f1e106]:
+                - generic [ref=f1e107]: ✕
+                - text: 30% - 40% Standard
+            - row [ref=f1e108]:
+              - cell "Daily Base Salary Guaranteed base reward for active creators" [ref=f1e109]:
+                - text: Daily Base Salary
+                - generic [ref=f1e110]: Guaranteed base reward for active creators
+              - cell "✓ Up to $8 / day Guaranteed" [ref=f1e111]:
+                - generic [ref=f1e112]: ✓
+                - text: Up to $8 / day Guaranteed
+              - cell "✕ $0 (No Base Salary)" [ref=f1e113]:
+                - generic [ref=f1e114]: ✕
+                - text: $0 (No Base Salary)
+            - row [ref=f1e115]:
+              - cell "1-on-1 Mentoring & Support Guidance from registration to growth" [ref=f1e116]:
+                - text: 1-on-1 Mentoring & Support
+                - generic [ref=f1e117]: Guidance from registration to growth
+              - cell "✓ 24/7 Agency Mentoring" [ref=f1e118]:
+                - generic [ref=f1e119]: ✓
+                - text: 24/7 Agency Mentoring
+              - cell "✕ Self-taught / No Guidance" [ref=f1e120]:
+                - generic [ref=f1e121]: ✕
+                - text: Self-taught / No Guidance
+            - row [ref=f1e122]:
+              - cell "Payout Schedule & Methods Weekly bank, PayPal, Epay, Binance, USDT" [ref=f1e123]:
+                - text: Payout Schedule & Methods
+                - generic [ref=f1e124]: Weekly bank, PayPal, Epay, Binance, USDT
+              - cell "✓ Reliable Weekly Payouts ($10 Min)" [ref=f1e125]:
+                - generic [ref=f1e126]: ✓
+                - text: Reliable Weekly Payouts ($10 Min)
+              - cell "✕ Monthly or High Threshold ($50-$100)" [ref=f1e127]:
+                - generic [ref=f1e128]: ✕
+                - text: Monthly or High Threshold ($50-$100)
+            - row [ref=f1e129]:
+              - cell "In-room Game & PK Revenue Interactive monetization tools & features" [ref=f1e130]:
+                - text: In-room Game & PK Revenue
+                - generic [ref=f1e131]: Interactive monetization tools & features
+              - cell "✓ Extra Game & Battle Income" [ref=f1e132]:
+                - generic [ref=f1e133]: ✓
+                - text: Extra Game & Battle Income
+              - cell "✕ Video Streaming Only" [ref=f1e134]:
+                - generic [ref=f1e135]: ✕
+                - text: Video Streaming Only
+            - row [ref=f1e136]:
+              - cell "Account Protection & Help Assistance for technical & withdrawal issues" [ref=f1e137]:
+                - text: Account Protection & Help
+                - generic [ref=f1e138]: Assistance for technical & withdrawal issues
+              - cell "✓ Direct Niki Live Admin Support" [ref=f1e139]:
+                - generic [ref=f1e140]: ✓
+                - text: Direct Niki Live Admin Support
+              - cell "✕ Automated Bot / Unassisted Bans" [ref=f1e141]:
+                - generic [ref=f1e142]: ✕
+                - text: Automated Bot / Unassisted Bans
+            - row [ref=f1e143]:
+              - cell "Joining & Management Cost Official agency onboarding" [ref=f1e144]:
+                - text: Joining & Management Cost
+                - generic [ref=f1e145]: Official agency onboarding
+              - cell "✓ 100% Free Forever" [ref=f1e146]:
+                - generic [ref=f1e147]: ✓
+                - text: 100% Free Forever
+              - cell "✕ Hidden Fees / Revenue Cuts" [ref=f1e148]:
+                - generic [ref=f1e149]: ✕
+                - text: Hidden Fees / Revenue Cuts
+    - region [ref=f1e150]:
+      - generic [ref=f1e151]:
+        - generic [ref=f1e152]:
+          - generic [ref=f1e153]: Transparent Rates
+          - heading "Niki Live Host Earnings" [level=2] [ref=f1e154]
+          - paragraph [ref=f1e155]: Clear and transparent breakdown of beans earned across all broadcasting and interactive features.
+        - table [ref=f1e157]:
+          - rowgroup [ref=f1e158]:
+            - row [ref=f1e159]:
+              - columnheader "Earning Source" [ref=f1e160]
+              - columnheader "Amount (in Beans)" [ref=f1e161]
+          - rowgroup [ref=f1e162]:
+            - row [ref=f1e163]:
+              - cell "Video Call" [ref=f1e164]
+              - cell "1200 Beans/minute" [ref=f1e165]
+            - row [ref=f1e166]:
+              - cell "Voice Call" [ref=f1e167]
+              - cell "800 Beans/minutes" [ref=f1e168]
+            - row [ref=f1e169]:
+              - cell "Gift Share" [ref=f1e170]
+              - cell "70% of gift value (40% during calls)" [ref=f1e171]
+            - row [ref=f1e172]:
+              - cell "Game Share (Live)" [ref=f1e173]
+              - cell "Vary, but always plenty" [ref=f1e174]
+        - generic [ref=f1e175]:
+          - heading "Notes" [level=4] [ref=f1e176]
+          - generic [ref=f1e177]:
+            - paragraph [ref=f1e178]: • 10.000 Beans = $1
+            - paragraph [ref=f1e179]: • When playing a Game, the accumulated coin is all the coins of both users and hosts inside the live room
+    - region [ref=f1e180]:
+      - generic [ref=f1e181]:
+        - generic [ref=f1e182]:
+          - generic [ref=f1e183]: Exclusive Program
+          - heading "Host Task Reward Event & Policy" [level=2] [ref=f1e184]
+          - paragraph [ref=f1e185]: Special rewards and incentives designed to support active female creators.
+        - generic [ref=f1e186]:
+          - generic [ref=f1e187]: Niki Host Task Reward
+          - heading "Host Task Reward Event & Policy" [level=3] [ref=f1e188]
+          - paragraph [ref=f1e189]: This event is only for female hosts, hosts will receive rewards corresponding to their level and income of the last 7 days.
+          - generic [ref=f1e190]:
+            - generic [ref=f1e191]:
+              - generic [ref=f1e192]: Part 1
+              - link [ref=f1e193]:
+                - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-1.png
+                - img "Niki Live Host Task Reward Event Policy Part 1" [ref=f1e194]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+            - generic [ref=f1e195]:
+              - generic [ref=f1e196]: Part 2
+              - link [ref=f1e197]:
+                - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-2.png
+                - img "Niki Live Host Task Reward Event Policy Part 2" [ref=f1e198]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+            - generic [ref=f1e199]:
+              - generic [ref=f1e200]: Part 3
+              - link [ref=f1e201]:
+                - /url: https://nikilive.id/wp-content/uploads/2026/10/Niki-Agent-Event-Part-3.png
+                - img "Niki Live Host Task Reward Event Policy Part 3" [ref=f1e202]
+                - generic [aria-hidden]:
+                  - generic: Click to Zoom
+    - region [ref=f1e203]:
+      - generic [ref=f1e204]:
+        - generic [ref=f1e205]:
+          - generic [ref=f1e206]: Withdrawal Rules
+          - heading "Host Withdrawal Information & Guides" [level=2] [ref=f1e207]
+          - paragraph [ref=f1e208]: Essential guidelines on currency conversion, payment schedules, and account compliance.
+        - generic [ref=f1e209]:
+          - article [ref=f1e210]:
+            - generic [ref=f1e211]: ✓
+            - paragraph [ref=f1e212]: 10,000 Beans = 1 USD
+          - article [ref=f1e213]:
+            - generic [ref=f1e214]: ✓
+            - paragraph [ref=f1e215]: "Minimum single withdrawal amount: 10 USD"
+          - article [ref=f1e216]:
+            - generic [ref=f1e217]: ✓
+            - paragraph [ref=f1e218]: Reward is calculated based on the last 7 days earnings, this means today + the previous 6 days.
+          - article [ref=f1e219]:
+            - generic [ref=f1e220]: ✓
+            - paragraph [ref=f1e221]: When the daily earnings increase to a higher level, the daily reward will also increase
+          - article [ref=f1e222]:
+            - generic [ref=f1e223]: ✓
+            - paragraph [ref=f1e224]: If a host registers multiple accounts, including but not limited to using multiple devices, all related rewards will be cancelled.
+          - article [ref=f1e225]:
+            - generic [ref=f1e226]: ✓
+            - paragraph [ref=f1e227]: Hosts can request withdrawals at any time, but Niki processes payments once a week.
+          - article [ref=f1e228]:
+            - generic [ref=f1e229]: ✓
+            - paragraph [ref=f1e230]: Service fees vary depending on the selected withdrawal method.
+          - article [ref=f1e231]:
+            - generic [ref=f1e232]: ✓
+            - paragraph [ref=f1e233]: "Niki supports multiple withdrawal options, including: Epay, Payoneer, PayPal, and bank transfer."
+    - region [ref=f1e234]:
+      - generic [ref=f1e235]:
+        - generic [ref=f1e236]:
+          - generic [ref=f1e237]: Questions & Answers
+          - heading "Frequently Asked Questions" [level=2] [ref=f1e238]
+          - paragraph [ref=f1e239]: Find answers to the most common questions regarding host registration, earnings, and withdrawals.
+        - region "Host Frequently Asked Questions Accordion" [ref=f1e240]:
+          - article [ref=f1e241]:
+            - 'button "FAQ 1: How can I become a Niki Live Host?" [expanded] [ref=f1e242] [cursor=pointer]'
+            - paragraph [ref=f1e248]: Joining Niki Live as a host is easy. Simply download the Niki Live app, register using your mobile number, email, or social media account, complete the required information, and submit your application to start your host journey.
+          - article [ref=f1e249]:
+            - 'button "FAQ 2: How much can I earn as a Niki Live Host?" [ref=f1e250] [cursor=pointer]'
+          - article [ref=f1e255]:
+            - 'button "FAQ 3: When can I withdraw my earnings?" [ref=f1e256] [cursor=pointer]'
+          - article [ref=f1e261]:
+            - 'button "FAQ 4: What makes Niki Live a great platform for hosts?" [ref=f1e262] [cursor=pointer]'
+          - article [ref=f1e267]:
+            - 'button "FAQ 5: How are host rewards calculated?" [ref=f1e268] [cursor=pointer]'
+    - region [ref=f1e273]:
+      - generic [ref=f1e276]:
+        - heading "Start your livestream host career with an official agency partner" [level=2] [ref=f1e277]
+        - paragraph [ref=f1e278]: Free to register with full guide and mentoring from us. Start whenever you want, we are always ready to help you start.
+        - generic [ref=f1e279]:
+          - link "Join as Host" [ref=f1e280] [cursor=pointer]:
+            - /url: "#register"
+          - link "Contact our Team" [ref=f1e281] [cursor=pointer]:
+            - /url: https://wa.me/601113244099
+  - dialog [aria-hidden]:
+    - generic:
+      - button: ✕
+      - generic:
+        - link:
+          - /url: "#"
+          - generic: Open Full Original in New Tab

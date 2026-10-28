@@ -1,0 +1,286 @@
+<!-- Floating Rounded Navbar Component for Elementor Header Template -->
+<header class="floating-header-wrapper" id="floating-header">
+  <div class="navbar-pill">
+    <!-- Brand Logo -->
+    <a href="/" class="brand-logo-link" aria-label="Niki Live Official Agency Homepage">
+      <img src="https://nikilive.id/wp-content/uploads/2023/08/unnamed.webp" alt="Niki Live Official Logo"
+        class="brand-logo-img" width="38" height="38" loading="lazy">
+      <span class="brand-name">Niki Live</span>
+    </a>
+
+    <!-- Desktop Navigation Menu -->
+    <nav class="nav-links-menu" aria-label="Main Navigation">
+      <a href="/" class="nav-link-item">Home</a>
+      <a href="/become-a-host" class="nav-link-item">Become a Host</a>
+      <a href="/become-a-agent" class="nav-link-item">Become an Agency</a>
+      <a href="/coin-seller" class="nav-link-item">Coin Seller</a>
+      <a href="/download-niki" class="nav-link-item">Download</a>
+      <div class="nav-dropdown" id="nav-dropdown-other">
+        <button type="button" class="nav-link-item nav-dropdown-toggle" aria-expanded="false" aria-haspopup="true">
+          <span>Other</span>
+          <svg class="dropdown-chevron" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+        <div class="nav-dropdown-menu" role="menu">
+          <a href="/bio" class="nav-dropdown-item" role="menuitem">About Us</a>
+          <a href="/tutorial-host" class="nav-dropdown-item" role="menuitem">Tutorial Host</a>
+          <a href="/tutorial-agent" class="nav-dropdown-item" role="menuitem">Tutorial Agent</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header Action Buttons (Desktop) -->
+    <div class="nav-cta-group">
+      <a href="https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code="
+        target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm">Join as Agency</a>
+      <a href="https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1"
+        target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm">Join as Host</a>
+    </div>
+
+    <!-- Mobile Navigation Hamburger Button -->
+    <button type="button" class="mobile-toggle-btn" id="mobile-toggle-btn" aria-label="Toggle navigation menu"
+      aria-expanded="false" aria-controls="mobile-drawer-menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <!-- Mobile Drawer Dropdown -->
+    <div class="mobile-drawer-menu" id="mobile-drawer-menu" aria-hidden="true">
+      <nav class="mobile-nav-list" aria-label="Mobile Navigation">
+        <a href="/" class="mobile-nav-link">Home</a>
+        <a href="/become-a-host" class="mobile-nav-link">Become a Host</a>
+        <a href="/become-a-agent" class="mobile-nav-link">Become an Agency</a>
+        <a href="/coin-seller" class="mobile-nav-link">Coin Seller</a>
+        <a href="/download-niki" class="mobile-nav-link">Download</a>
+        <div class="mobile-nav-dropdown">
+          <button type="button" class="mobile-nav-link mobile-dropdown-toggle" aria-expanded="false">
+            <span>Other</span>
+            <svg class="dropdown-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+              stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <div class="mobile-dropdown-menu">
+            <a href="/about-nikilive" class="mobile-sub-link">About Us</a>
+            <a href="/tutorial-host" class="mobile-sub-link">Tutorial Host</a>
+            <a href="/tutorial-agent" class="mobile-sub-link">Tutorial Agent</a>
+          </div>
+        </div>
+      </nav>
+      <div class="mobile-cta-group">
+        <a href="https://nh5013pidw.akamaized.net/ghmanage/ghmanage/invite_agent.html?guild_id=17666&guild_code=cd227867f95d4e479609912f41cdaad2&uid=0&version=&v=240819&roomid=0&lang=en&_app=niki&platform=&version_code="
+          target="_blank" rel="noopener noreferrer" class="btn btn-secondary">Join as Agency</a>
+        <a href="https://nm4138jpcid.akamaized.net/agent/invite/landing?uid=63555330&token=63555330&lang=en&_app=niki&imgId=&channelId=copy&templateId=1"
+          target="_blank" rel="noopener noreferrer" class="btn btn-primary">Join as Host</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Internal JavaScript for Elementor Header Template -->
+<script>
+  (function () {
+    // 1. Remove WordPress/Astra Theme Scroll to Top button completely
+    function removeThemeScrollToTop() {
+      var selectors = [
+        '#ast-scroll-top',
+        '.ast-scroll-top',
+        '.ast-scroll-to-top',
+        '.ast-scroll-top-icon',
+        '#scroll-top',
+        '.scroll-top',
+        '#scroll-to-top',
+        '.scroll-to-top',
+        '#generate-back-to-top',
+        '.generate-back-to-top',
+        '#kt-scroll-up',
+        '.kt-scroll-up',
+        '[aria-label*="Scroll to Top" i]',
+        '[aria-label*="Scroll to top" i]',
+        '[title*="Scroll to Top" i]',
+        '[title*="Scroll to top" i]'
+      ];
+      try {
+        document.querySelectorAll(selectors.join(',')).forEach(function (el) {
+          if (el && el.parentNode) el.parentNode.removeChild(el);
+        });
+        document.querySelectorAll('.screen-reader-text').forEach(function (el) {
+          if (el && el.textContent && /scroll\s*to\s*top/i.test(el.textContent)) {
+            var parent = el.closest('a, button, div');
+            if (parent && parent.parentNode) {
+              parent.parentNode.removeChild(parent);
+            } else if (el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          }
+        });
+      } catch (err) { }
+    }
+    removeThemeScrollToTop();
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', removeThemeScrollToTop);
+    }
+    window.addEventListener('load', removeThemeScrollToTop);
+    window.addEventListener('scroll', removeThemeScrollToTop, { passive: true });
+
+    // 2. Sticky Scroll Effect
+    var headerWrapper = document.getElementById('floating-header');
+    if (headerWrapper) {
+      window.addEventListener('scroll', function () {
+        if (window.scrollY > 30) {
+          headerWrapper.classList.add('is-scrolled');
+        } else {
+          headerWrapper.classList.remove('is-scrolled');
+        }
+      }, { passive: true });
+    }
+
+    // 3. Robust Mobile Menu Toggle (Single Click & Instant Response)
+    function initMobileNav() {
+      var header = document.getElementById('floating-header');
+      if (!header) return;
+
+      var toggleBtn = header.querySelector('#mobile-toggle-btn, .mobile-toggle-btn');
+      var drawerMenu = header.querySelector('#mobile-drawer-menu, .mobile-drawer-menu');
+      if (!toggleBtn || !drawerMenu) return;
+
+      function closeMenu() {
+        drawerMenu.classList.remove('is-open');
+        drawerMenu.setAttribute('aria-hidden', 'true');
+        toggleBtn.classList.remove('is-active');
+        toggleBtn.setAttribute('aria-expanded', 'false');
+      }
+
+      function toggleMenu(e) {
+        if (e && e.cancelable) e.preventDefault();
+        if (e && e.stopPropagation) e.stopPropagation();
+        if (e && e.stopImmediatePropagation) e.stopImmediatePropagation();
+
+        var isOpen = drawerMenu.classList.toggle('is-open');
+        toggleBtn.classList.toggle('is-active', isOpen);
+        toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        drawerMenu.setAttribute('aria-hidden', isOpen ? 'false' : 'true');
+      }
+
+      toggleBtn.onclick = toggleMenu;
+
+      // Close when clicking any link inside the mobile drawer
+      drawerMenu.querySelectorAll('a').forEach(function (link) {
+        link.onclick = closeMenu;
+      });
+
+      // Close when clicking outside header
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest('#floating-header, .floating-header-wrapper')) {
+          closeMenu();
+        }
+      });
+    }
+
+    initMobileNav();
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initMobileNav);
+    }
+
+    // 4. Dropdowns (Desktop & Mobile)
+    function initDropdowns() {
+      var desktopDropdowns = document.querySelectorAll('.nav-dropdown');
+      desktopDropdowns.forEach(function (drop) {
+        var btn = drop.querySelector('.nav-dropdown-toggle');
+        if (!btn) return;
+        btn.onclick = function (e) {
+          if (e && e.preventDefault) e.preventDefault();
+          if (e && e.stopPropagation) e.stopPropagation();
+          var isOpen = drop.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        };
+      });
+
+      document.addEventListener('click', function (e) {
+        desktopDropdowns.forEach(function (drop) {
+          if (!drop.contains(e.target)) {
+            drop.classList.remove('is-open');
+            var btn = drop.querySelector('.nav-dropdown-toggle');
+            if (btn) btn.setAttribute('aria-expanded', 'false');
+          }
+        });
+      });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+          desktopDropdowns.forEach(function (drop) {
+            drop.classList.remove('is-open');
+            var btn = drop.querySelector('.nav-dropdown-toggle');
+            if (btn) btn.setAttribute('aria-expanded', 'false');
+          });
+        }
+      });
+
+      // Mobile Dropdown Accordion Toggle
+      var mobileDropdowns = document.querySelectorAll('.mobile-nav-dropdown');
+      mobileDropdowns.forEach(function (drop) {
+        var btn = drop.querySelector('.mobile-dropdown-toggle');
+        if (!btn) return;
+        btn.onclick = function (e) {
+          if (e && e.preventDefault) e.preventDefault();
+          if (e && e.stopPropagation) e.stopPropagation();
+          var isOpen = drop.classList.toggle('is-open');
+          btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        };
+      });
+    }
+
+    initDropdowns();
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initDropdowns);
+    }
+
+    // 5. Auto-detect Active Navigation Link based on current URL
+    function updateActiveNavLink() {
+      var currentPath = window.location.pathname.replace(/\/+$/, '') || '/';
+      var navLinks = document.querySelectorAll('.nav-link-item, .mobile-nav-link, .nav-dropdown-item, .mobile-sub-link');
+      var matched = false;
+
+      navLinks.forEach(function (link) {
+        link.classList.remove('active');
+        var href = (link.getAttribute('href') || '').split('?')[0].split('#')[0].replace(/\/+$/, '') || '/';
+
+        if (href !== '/' && (currentPath === href || currentPath.endsWith(href))) {
+          link.classList.add('active');
+          matched = true;
+
+          var desktopParent = link.closest('.nav-dropdown');
+          if (desktopParent) {
+            var parentBtn = desktopParent.querySelector('.nav-dropdown-toggle');
+            if (parentBtn) parentBtn.classList.add('active');
+          }
+
+          var mobileParent = link.closest('.mobile-nav-dropdown');
+          if (mobileParent) {
+            var parentMobileBtn = mobileParent.querySelector('.mobile-dropdown-toggle');
+            if (parentMobileBtn) parentMobileBtn.classList.add('active');
+            mobileParent.classList.add('is-open');
+            if (parentMobileBtn) parentMobileBtn.setAttribute('aria-expanded', 'true');
+          }
+        }
+      });
+
+      if (!matched && (currentPath === '/' || currentPath === '' || currentPath === '/home')) {
+        navLinks.forEach(function (link) {
+          var href = (link.getAttribute('href') || '').replace(/\/+$/, '') || '/';
+          if (href === '/') {
+            link.classList.add('active');
+          }
+        });
+      }
+    }
+
+    updateActiveNavLink();
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', updateActiveNavLink);
+    }
+  })();
+</script>

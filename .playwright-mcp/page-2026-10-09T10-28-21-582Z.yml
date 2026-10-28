@@ -1,0 +1,8 @@
+- generic [active]:
+  - banner:
+    - generic [ref=f8e1]:
+      - link "Niki Live Official Agency Homepage" [ref=f8e2] [cursor=pointer]:
+        - /url: /
+        - img "Niki Live Official Logo" [ref=f8e3]
+        - generic [ref=f8e4]: Niki Live
+      - button "Toggle navigation menu" [ref=f8e5] [cursor=pointer]
